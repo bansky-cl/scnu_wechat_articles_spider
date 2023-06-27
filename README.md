@@ -34,4 +34,4 @@
 - [ ] 爬取文章图片
 - [ ] 持续爬取最新的文章，拟一个季度一版   
 
-更详细可参考[原仓库说明](https://github.com/wnma3mz/wechat_articles_spider)https://github.com/wnma3mz/wechat_articles_spider
+更详细可参考[原仓库说明](https://github.com/wnma3mz/wechat_articles_spider)
