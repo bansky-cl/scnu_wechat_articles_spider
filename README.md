@@ -14,6 +14,7 @@
 - [x] 鉴于今年发现晚华的标题总是“**click-bait**”（标题党），增加今年文章的标题和内容预处理、分析代码，并去掉停用词制作词云图，展示如下：
 ![title23](imgs/title.png)
 <center>2023-24 晚华文章标题的词云</center>
+
 ![content23](imgs/content.png)
 <center>2023-24 晚华文章内容的词云</center>
 
